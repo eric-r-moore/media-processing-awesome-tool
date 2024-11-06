@@ -12,6 +12,8 @@ media processing awesome tool 媒体处理工具
 - WeCam
 - Studio One
 - Logic Pro
+- Audacity
+- [Element](https://github.com/kushview/element)
 
 ## Effect
 ### Noise Suppression
