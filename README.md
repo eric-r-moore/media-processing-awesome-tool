@@ -21,3 +21,8 @@ media processing awesome tool 媒体处理工具
   - OBS 自带一个，但是没法调节阈值
 - macOS voice isolation 有时候不生效
 - NVIDIA RTX Voice (需要显卡)
+
+## OBS Plugins
+- NDI
+- RNNoise
+- Audio Monitor
