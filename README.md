@@ -14,6 +14,7 @@ media processing awesome tool 媒体处理工具
 - Logic Pro
 - Audacity
 - [Element](https://github.com/kushview/element)
+- DroidCam
 
 ### voicemeeter-pack
 voicemeeter program pack
