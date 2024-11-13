@@ -54,5 +54,6 @@ voicemeeter program pack
 
 ## OBS Plugins
 - NDI
+- DroidCam OBS Plugin
 - RNNoise
 - Audio Monitor
