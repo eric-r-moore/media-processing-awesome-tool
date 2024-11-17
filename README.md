@@ -63,3 +63,4 @@ voicemeeter program pack
 - VBAN
 - NDI
 - Source-Connect
+- Dante Connect
